@@ -19,7 +19,7 @@ yesterday_str = yesterday.strftime('%Y-%m-%d')
 
 # API endpoint and parameters
 url = 'https://newsapi.org/v2/everything'
-api_url = "http://localhost:5001/store-text"
+api_url = "http://localhost:5003/store-text"
 
 try:
 
